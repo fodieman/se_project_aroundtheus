@@ -1,6 +1,6 @@
 .footer {
   color: #545454;
-  margin-top: 50px;
+  margin-top: 48px;
   margin-bottom: 50px;
 }
 
@@ -12,6 +12,7 @@
   text-overflow: ellipsis;
   white-space: nowrap;
   overflow: hidden;
+  margin: 0;
 }
 
 @media screen and (max-width: 800px) {
